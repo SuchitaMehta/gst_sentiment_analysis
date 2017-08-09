@@ -1,7 +1,8 @@
 This project aims to find the sentiment of Public on the biggest reform since Independence, mainly the Goods and Service Tax.
 THe components of the projects are as follows:
 
-Twitter API
+Twitter API:Suchita
+Extracting data from twitter using twitter API and processing it
 
 Facebook API
 
